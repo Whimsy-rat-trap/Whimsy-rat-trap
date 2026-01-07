@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Привет! 
 
-<!--
-**Whimsy-rat-trap/Whimsy-rat-trap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Junior Frontend Developer** / ** Джуниор Фронтенд-разработчик**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Технологии и навыки / Tech Stack & Skills
+
+**Фронтенд / Frontend:**
+*   **Языки:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+*   **Библиотеки & Фреймворки:** React, Redux (Toolkit)
+*   **Инструменты сборки:** Webpack
+*   **Тестирование:** Jest, Cypress (E2E)
+*   **Стилизация:** CSS3 (Flexbox, Grid), Bootstrap, адаптивная и кроссбраузерная верстка
+*   **Дизайн:** Adobe Photoshop (создание и обработка визуала)
+
+**Другие технологии / Other Tech:**
+*   **Backend & Языки:** Python, Django (использовал для визуализации)
+*   **Контроль версий:** Git, GitHub
+
+---
+
+### 🌐 Языки / Languages
+
+*   **Русский** — Родной (Native).
+*   **Английский** — Уровень C2 (Proficient).
+
+---
+
+### 📂 Мои проекты / My Projects
+
+Здесь вы найдете мои учебные, пет-проекты и примеры кода.
+
+*   **[stellar-burgers](https://github.com/Whimsy-rat-trap/stellar-burgers)** — Добавление маршрутов и создание компонентов страниц для них. Создание слайсов, подключение к ним данных из API. Вывод подключённых данных с использованием компонентов из UI. Так же созданы интеграционные тесты на Cypress и Jest.
+*   **[WEB-ларёк](https://github.com/Whimsy-rat-trap/web-larek-frontend)** — Реализация документированной MVP-архитектуры веб-приложения. Реализация компонентов и моделей данных приложения. 
+*   **[SkillSwap](https://github.com/PM-YandexPracticum/SkillSwap_41_5/tree/develop)** — Командная дипломная работа по мере которой выполнял задачи созданные лидом. 
+
+> *Больше проектов вы можете найти, перейдя в мои репозитории.*
+
+---
+
+### 📫 Как со мной связаться / How to reach me
+
+Я открыт для предложений о работе, совместных проектов или просто для обмена опытом.
+
+*   **Telegram:** [@yourusername]
+*   **Email:** [soulalex444@gmail.com]
+
+---
+
+⭐ *Благодарю, что заглянули в мой профиль! Буду рад вашему фидбеку.* / *Thanks for visiting my profile! I appreciate any feedback.*
