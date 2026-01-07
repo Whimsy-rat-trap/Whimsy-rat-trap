@@ -43,7 +43,7 @@
 
 Я открыт для предложений о работе, совместных проектов или просто для обмена опытом.
 
-*   **Telegram:** [@yourusername]
+*   **Telegram:** [@GlukhikhAlexandr]
 *   **Email:** [soulalex444@gmail.com]
 
 ---
