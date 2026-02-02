@@ -1,6 +1,6 @@
-**Good day, **
+**Hi,**
 
-**I am novice Junior Frontend Developer**.
+**I am novice Junior Frontend Developer.**
 
 ---
 
@@ -10,7 +10,7 @@
 *   **Libraries and frameworks: ** React, Redux (Toolkit)
 *   **Module bundlers:** Webpack, Vite
 *   **unit-testing:** Jest, Cypress (E2E)
-*   **Стилизация:** CSS3 (Flexbox, Grid), Bootstrap
+*   **Stylization of my stuff:** CSS3 (Flexbox, Grid), Bootstrap
 
 ---
 
