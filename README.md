@@ -7,7 +7,7 @@
 ### Skills i utilize:
 
 *   **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-*   **Libraries and frameworks: ** React, Redux (Toolkit)
+*   **Libraries and frameworks:** React, Redux (Toolkit)
 *   **Module bundlers:** Webpack, Vite
 *   **unit-testing:** Jest, Cypress (E2E)
 *   **Stylization of my stuff:** CSS3 (Flexbox, Grid), Bootstrap
