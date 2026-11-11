@@ -24,7 +24,7 @@ React · TypeScript · Redux Toolkit · Jest · Cypress
 | **Stellar Burgers** | Конструктор бургеров: drag-and-drop, корзина, авторизация, защищённые роуты, интеграция с API, тесты | React, TypeScript, Redux Toolkit, React Router, Jest, Cypress | [Код](https://github.com/Whimsy-rat-trap/stellar-burgers)|
 | **Web-ларёк** | Интернет-магазин с собственной MVP-архитектурой: каталог, корзина, оформление заказа, валидация | TypeScript, MVP, Webpack, SCSS, REST API | [Код](https://github.com/Whimsy-rat-trap/web-larek-frontend)|
 | **SkillSwap** | Командный проект: работа в кодовой базе, Git-flow, распределение задач | React, TypeScript, командная разработка | [Код](ВСТАВЬТЕ_ССЫЛКУ)|
-| **Экрер / diplom2024** | Дипломный проект | [Код](https://github.com/Whimsy-rat-trap/diplom2024)|
+| **Экрер / diplom2024** | Дипломный проект | - | [Код](https://github.com/Whimsy-rat-trap/diplom2024)|
 
 > В каждом проекте в README есть описание задачи, стека, моей роли и инженерных решений.
 
