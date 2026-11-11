@@ -1,33 +1,71 @@
-**Hi,**
+**Junior Frontend Developer**  
+React · TypeScript · Redux Toolkit · Jest · Cypress
 
-**I am novice Junior Frontend Developer.**
-
----
-
-### Skills i utilize:
-
-*   **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-*   **Libraries and frameworks:** React, Redux (Toolkit)
-*   **Module bundlers:** Webpack, Vite
-*   **unit-testing:** Jest, Cypress (E2E)
-*   **Stylization of my stuff:** CSS3 (Flexbox, Grid), Bootstrap
+Ищу удалённую работу или стажировку во фронтенд-разработке.  
+Люблю чистую архитектуру, тесты и интерфейсы, которые решают конкретные задачи пользователя.
 
 ---
 
-### Languages i speak
+## Коротко обо мне
 
-*   **Russian** — Native.
-*   **English** — C1 (Advanced).
+- Разрабатываю SPA на **React + TypeScript**.
+- Управляю состоянием через **Redux Toolkit**, работаю с REST API.
+- Пишу тесты: **Jest** для юнит-тестов, **Cypress** для E2E.
+- Понимаю принципы **MVP**, модульной архитектуры и разделения ответственности.
+- Есть опыт командной разработки в учебном проекте **SkillSwap**.
+- Открыт к feedback, code review и работе в команде.
 
 ---
 
-### My Projects
+## 📦 Избранные проекты
 
-> *Here you can find my study projects and pet projects (russian description only):*
+| Проект | Что демонстрирует | Стек | Ссылки |
+|---|---|---|---|
+| **Stellar Burgers** | Конструктор бургеров: drag-and-drop, корзина, авторизация, защищённые роуты, интеграция с API, тесты | React, TypeScript, Redux Toolkit, React Router, Jest, Cypress | [Код](https://github.com/Whimsy-rat-trap/stellar-burgers)|
+| **Web-ларёк** | Интернет-магазин с собственной MVP-архитектурой: каталог, корзина, оформление заказа, валидация | TypeScript, MVP, Webpack, SCSS, REST API | [Код](https://github.com/Whimsy-rat-trap/web-larek-frontend)|
+| **SkillSwap** | Командный проект: работа в кодовой базе, Git-flow, распределение задач | React, TypeScript, командная разработка | [Код](ВСТАВЬТЕ_ССЫЛКУ)|
+| **Экрер / diplom2024** | Дипломный проект | [Код](https://github.com/Whimsy-rat-trap/diplom2024)|
 
-*   **[Экрер](https://github.com/Whimsy-rat-trap/diplom2024)** — Дипломная работа АлтГТУ. 
-*   **[stellar-burgers](https://github.com/Whimsy-rat-trap/stellar-burgers)** — Спринтовая работа Яндекс Практикума. Добавление маршрутов и создание компонентов страниц для них. Создание слайсов и подключение к ним данных из API. Вывод подключённых данных с использованием компонентов из UI. Так же созданы интеграционные тесты на Cypress и Jest.
-*   **[WEB-ларёк](https://github.com/Whimsy-rat-trap/web-larek-frontend)** — Спринтовая работа Яндекс Практикума. Реализация документированной MVP-архитектуры веб-приложения. Реализация компонентов и моделей данных приложения. 
-*   **[SkillSwap](https://github.com/PM-YandexPracticum/SkillSwap_41_5/tree/develop)** — Командная дипломная работа Яндекс Практикума по мере которой выполнял задачи созданные лидом.
+> В каждом проекте в README есть описание задачи, стека, моей роли и инженерных решений.
 
-> *You can find more by taking a peek into my repositories*
+---
+
+## 🛠 Технологический стек
+
+**Основное:**  
+React · TypeScript · Redux Toolkit · React Router · REST API
+
+**Тестирование:**  
+Jest · Cypress
+
+**Инструменты и стилизация:**  
+Webpack · SCSS · CSS Modules · Git · GitHub Actions
+
+**Изучаю / развиваю:**  
+Next.js · Vitest · React Testing Library · доступность интерфейсов
+
+---
+
+## 🧪 Инженерные практики
+
+- Разделяю бизнес-логику и отображение.
+- Использую типизацию и переиспользуемые компоненты.
+- Покрываю тестами критические пользовательские сценарии.
+- Оформляю проекты как кейсы: проблема → решение → результат.
+- Работаю с Git: ветки, PR, code review.
+
+---
+
+## 📫 Контакты
+
+- **Email:** [soulalex444@gmail.com]
+- **Telegram:** [@GlukhikhAlexandr]
+
+---
+
+## Сейчас я ищу
+
+Позицию **Junior Frontend Developer** с удалённым форматом работы.  
+Готов к тестовому заданию, стажировке и проектной работе.
+
+Буду рад обратной связи по проектам и открыт к предложениям.
